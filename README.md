@@ -8,10 +8,14 @@ Most games taken from around github, base site is used from [sman](https://githu
 
 ## Credits
 
-[sman](https://github.com/smaniscool) | [Base website template](https://smaniscool.github.io)
-[Max](https://github.com/maxwellito) | [Breaklock](https://maxwellito.github.io/breaklock/)
-[Anna Harren](https://github.com/iirelu/) and [sigod](https://github.com/sigod) | [2048](http://gabrielecirulli.github.io/2048/)
-[OZH](https://github.com/ozh) | [Cookie Clicker Clone](https://ozh.github.io/cookieclicker)
-[Jack](http://jackrugile.com/) | [Radius Raid](https://github.com/jackrugile/radius-raid-js13k)
+[smaniscool](https://github.com/smaniscool) for [Base website template](https://smaniscool.github.io) 
+# 
+[Max](https://github.com/maxwellito) for [Breaklock](https://maxwellito.github.io/breaklock/)
+# 
+[Anna Harren](https://github.com/iirelu/) and [sigod](https://github.com/sigod) for [2048](http://gabrielecirulli.github.io/2048/)
+# 
+[OZH](https://github.com/ozh) for [Cookie Clicker Clone](https://ozh.github.io/cookieclicker)
+# 
+[Jack](http://jackrugile.com/) for [Radius Raid](https://github.com/jackrugile/radius-raid-js13k)
 
-All other games were not credited on the original site by sman, sorry!
+All other games were not credited on the original site by smaniscool, sorry!
